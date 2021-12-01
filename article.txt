@@ -1,0 +1,31 @@
+Everyone knows that currying favour is harder than it looks. Getting someone on your side – whether it’s during a presentation or pitch, or simply trying to wow during a social interaction – is a nerve-wracking process. Do they like me? Do they agree with what I think? Am I even making sense?
+
+But cracking the secret to connecting with someone may actually be easier than it seems: simply, copy them.
+
+We already know mimicking body language, expression and gestures can help people forge relationships, but results from a new organisational-behaviour study indicate that imitating someone’s communication style can also make you more persuasive. The parroting technique is called ‘linguistic mirroring’, and data shows that implementing the strategy can boost the efficacy of your message.
+
+For example, the next time you’re on that Zoom all-staff meeting, pay close attention to how each of your colleagues speak and present their thoughts. Some might only be concerned with fast data points and bottom lines, acting brusque and maybe even a bit standoffish. Others may be far less linear, and might launch into a rambling story. The research shows you should adjust your speech to mimic them – even if their communication style is miles from your own.
+
+Developing this chameleon-like skill could prove to be a very useful addition to your toolbox for winning people over – and getting ahead.
+
+“How do you make your voice stand out from that sea of suggestions, proposals and so on? That’s what linguistic mirroring can facilitate,” says Maxim Sytch, an associate professor of management and organisations at the University of Michigan. He, along with Yong H Kim, assistant professor of management at Hong Kong University of Science and Technology, are the two researchers behind the new study.
+
+In their study, Sytch and Kim looked at the legal profession, and how linguistic mirroring could help lawyers get on the good side of judges – and win cases. The duo analysed 25 million-plus words in more than 1,800 publicly available legal documents pertaining to patent infringement lawsuits in the US. They then used a computational linguistic analysis tool to track the writing styles of the judges and lawyers involved.
+
+They measured four writing styles, each on a sliding scale: analytical thinking (higher scores suggested the writer favours logic, lower scores suggested they favour personal values); clout (higher scores meant confidence, lower scores meant humility); authenticity (high scores signalled a style leaning towards honesty and disclosure, low scores hinted at a more guarded style); and emotional tone (high-scoring writers were more upbeat and positive; low-scoring writers had a sadder or more anxious tone).
+
+Then, they looked up which lawyers in these various lawsuits won their cases, and those who didn’t. Most strikingly, the researchers found that if the legal teams more closely mirrored a judge’s preferred writing style in documents such as past legal opinions, their chances of winning could more than double. On average, lawyers in Sytch and Kim’s sample had an 11.5% chance of winning. But the lawyers who did more linguistic mirroring saw their rates go up to a whopping 25%.
+
+Reaping the benefits
+
+Although getting on someone’s good side through communication may mean you’ll be more liked in the (virtual) break room, the rewards for keen observation and application are more high stakes. Think sealing a deal with a client, impressing the right executive or building relationships with people in your organisation who will then be more likely to do what you want them to do.
+
+To effectively implement linguistic mirroring, Sytch says to pay attention to how people ask their questions, and observe what pieces of presentations they find more or less compelling. This would be “a window of not just how to communicate with them, but also how they process information”. In writing, heed how your colleagues compose email, memos or on chat, and echo the form and sentiment.
+
+You can find lots of hints in the way they like to communicate. For example, Sytch says, “I have some colleagues who love long emails with lots of bullet points and spreadsheets attached. The way to respond to them is probably write an equally long email by addressing their bullet points one by one.” In other situations, you might know someone who adds colour with personal anecdotes and feelings. You could shoot off a similar response – perhaps including a short story of your own to hammer home your point. Or, if you’re talking to someone who’s more buttoned up and direct – maybe a superior or an executive – go straight for the answer. Leave the humour at the door, if that’s what they do.
+
+In short, Sytch says “if you present something to me in a way that I’m used to hearing, how I articulate my thoughts – it’s easier for me to process the essence of that argument, so as a result, it allows you to be more persuasive.”
+
+Sure, it’s easier said than done to spend time learning about someone’s communication style by diving into hundreds of public documents – if you even have such a resource available. But you can use your network to get a similar perspective on a person, especially if you’ve never met them. Ask someone who’s interacted with your “target”, says Sytch. Something like, Hey, I’m presenting to Bryan. What’s he like? What types of questions does he ask? What do I absolutely have to do to win him over?
+
+“Being sensitive to that process of delivering information – how other people process that information – can give us a better chance of being heard,” says Sytch.
