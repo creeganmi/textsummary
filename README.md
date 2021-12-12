@@ -1,4 +1,4 @@
-# Text Summary & Scoring Model (NLP) - Hugging Face BART Transformer
+# Text Summary & Scoring Model (NLP) - Hugging Face BART Transformer (end result in textsummarizer.ipynb)
 
 Summarization is a common problem in the 21st century as the world has become increasingly driven by data. Summarization of data can be very useful to quickly determine if something is relevant or whether it's worth reading. Another use case could be to store summaries of articles in the backend to run downstream tasks on. It could also be useful to understand the semantic integrity to indicate quality.
 
